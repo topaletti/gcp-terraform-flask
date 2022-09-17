@@ -2,9 +2,9 @@
 
 ## Requirements
 
-GCP account with activated billing
-gcloud CLI
-Terraform
+* GCP account with activated billing
+* gcloud CLI
+* Terraform
 
 ## Preparation
 
