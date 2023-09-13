@@ -1,7 +1,7 @@
 provider "google" {
   project = "terraform-flask-362809"
-  region  = "us-east4"
-  zone    = "us-east4-c"
+  region  = "us-east1"
+  zone    = "us-east1-c"
 }
 
 # Create a single Compute Engine instance

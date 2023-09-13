@@ -12,7 +12,7 @@ Create a GCP project using the GCP web interface and edit `main.tf` to use your 
 
 Enable the Compute Engine and OS Login APIs using this URL: `https://console.cloud.google.com/flows/enableapi?apiid=compute.googleapis.com,oslogin.googleapis.com`
 
-Set your default GCP region and zone with `gcloud compute project-info add-metadata --metadata google-compute-default-region=us-east4,google-compute-default-zone=us-east4-c`.
+Set your default GCP region and zone with `gcloud compute project-info add-metadata --metadata google-compute-default-region=us-east1,google-compute-default-zone=us-east1-c`.
 
 Run `gcloud init` to select your project and authorize.
 
